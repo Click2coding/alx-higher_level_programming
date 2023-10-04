@@ -5,6 +5,7 @@ Module contains Rectangle Class
 
 
 class Rectangle:
-    '''An empty rectangle class
+    '''
+    An empty rectangle class
     '''
     pass
